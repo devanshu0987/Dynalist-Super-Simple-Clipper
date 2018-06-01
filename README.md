@@ -18,7 +18,7 @@ The workflow now is
 2. Go through each web page
 3. Keep selecting some text and press ALT+A each time
 4. Once all the research is done , click extension icon
-5. Press CTRL+C
+5. Press DUMP and Press CTRL+C
 6. Swtich to Dynalist Tab and press CTRL+V
 7. Go through the pasted text and format as necessary
 
